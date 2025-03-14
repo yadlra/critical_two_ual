@@ -74,9 +74,10 @@ Tech Abuse
 
 ---
 
-## ⏳ Exercise flow (1:10 hour)  
+## ⏳ Exercise flow   
 
-### **⏲️ 1. Team work (30 min)**  
+### **⏲️ 1. Team work (40 min)** 
+
 📌 Each team will **read their assigned pages**, discuss key points, and prepare a **5-minute presentation**.  
 
 ---
