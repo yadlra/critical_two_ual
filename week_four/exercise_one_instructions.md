@@ -5,7 +5,7 @@ You will work in **4 teams**, each assigned a **specific section of the article*
 
 [Threat Modeling Intimate Partner
 Violence: Tech Abuse as a Cybersecurity
-Challenge in the Internet of Things
+Challenge in the Internet of Things by
 Julia Slupska and Leonie Maria Tanczer](https://www.emerald.com/insight/content/doi/10.1108/978-1-83982-848-520211049/full/pdf?title=threat-modeling-intimate-partner-violence-tech-abuse-as-a-cybersecurity-challenge-in-the-internet-of-things)
 
 Each team will **read, summarise, and present** their findings, leading to a final discussion.  
